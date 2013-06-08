@@ -1,0 +1,2 @@
+clients = {}
+gameudp  = None
